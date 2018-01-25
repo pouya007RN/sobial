@@ -1,4 +1,4 @@
-import pygame,random,time
+import pygame,time
 Algorithm=input()
 if Algorithm == 'merge sort':
     pygame.init()
